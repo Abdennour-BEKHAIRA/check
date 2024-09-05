@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/60d4-44-205-213-188.ngrok-free.app.ico",
     "slug": "g",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 199,
-    "timeDay": 199,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "uptime": "1.53%",
+    "uptimeDay": "1.53%",
+    "uptimeWeek": "1.53%",
+    "uptimeMonth": "1.53%",
+    "uptimeYear": "1.53%",
+    "time": 159,
+    "timeDay": 159,
+    "timeWeek": 159,
+    "timeMonth": 159,
+    "timeYear": 159,
     "dailyMinutesDown": {
-      "2024-09-04": 0
+      "2024-09-05": 71,
+      "2024-09-04": 789
     }
   }
 ]
